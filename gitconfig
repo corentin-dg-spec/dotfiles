@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = corentin.dgnd@gmail.com
+	email = @users.noreply.github.com
 	name = Corentin Degand
